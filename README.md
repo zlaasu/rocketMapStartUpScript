@@ -20,4 +20,6 @@ To run this U need to have:
 
 4) Edit loc for each city ex. config/city1Loc.txt format: loc;step;workes_count;workerel30_count
 
-5) Add workers to config/acc.csv and config/accl30.csv
+5) Add all workers to one file to config/acc.csv and config/accl30.csv
+
+6) Edit path in pokeMap.sh
